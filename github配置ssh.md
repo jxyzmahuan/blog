@@ -2,8 +2,8 @@
 title: Github配置SSH
 date: 2021-10-11 21:56:13
 tags:
-    - Github
     - Java
+    - GitHubPages
 ---
 
 # 下载安装git
