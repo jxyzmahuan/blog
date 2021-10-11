@@ -1,3 +1,11 @@
+---
+title: Github配置SSH
+date: 2021-10-11 21:56:13
+tags:
+    - Github
+    - Java
+---
+
 # 下载安装git
 
 [点击下载Git](https://git-scm.com/download/win)
